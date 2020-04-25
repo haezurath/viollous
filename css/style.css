@@ -695,8 +695,8 @@ margin-left: 390px;
 .about-mf .about-img {
   margin-bottom: 200px;
   margin-left: 50px;
-  height: 350px;
-  width: 350px;
+  height: 100%;
+  width: 100%;
 }
 
 #home img{
