@@ -239,9 +239,7 @@ margin-left: 390px;
 
   }
 
-  .about-info{
-    margin-top: -60px;
-  }
+
 
 /*------/ Ul resect /------*/
 
@@ -694,7 +692,7 @@ margin-left: 390px;
 
 .about-mf .about-img {
   margin-bottom: 200px;
-  margin-left: 50px;
+  margin-left: 0px;
   height: 100%;
   width: 100%;
 }
@@ -1305,7 +1303,7 @@ footer .credits a {
   #page_6 h1{
     color: black;
     /* text-transform: uppercase; */
-    font-size: 45px;
+  font-size: 3rem;
     text-align: center;
 
     /* margin-top: 275px; */
@@ -1345,5 +1343,10 @@ footer .credits a {
   } */
 
   .about-info{
-    margin-top: -40px;
+    margin-top: 0%;
+    margin-left: 10%;
+  }
+
+  .about-info p{
+    font-size: 17px;
   }
